@@ -1,0 +1,10 @@
+Python 
+Flask
+Streamlit
+pandas
+matplotlib
+PIL
+requests
+googleapiclient
+textblob
+wordcloud
